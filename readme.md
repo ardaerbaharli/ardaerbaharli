@@ -2,6 +2,9 @@
 
 I have been actively engaged in software development for over four years, specializing in the creation of mobile games using the C# programming language. Over the past three years, my primary focus has been on game development, allowing me to gain extensive experience in this field. Since December 2021, I have been working as a freelance game developer, collaborating on numerous projects including various genres, primarily targeting mobile platforms.
 
+You can see my portfolio [here]([portfolio])
+
+[portfolio]: https://ardaerbaharli.github.io/portfolio/
 
 ### 📩 Connect with me:
 
