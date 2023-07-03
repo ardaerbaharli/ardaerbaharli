@@ -4,8 +4,6 @@ I have been actively engaged in software development for over four years, specia
 
 You can see my portfolio [here](https://ardaerbaharli.github.io/portfolio/)
 
-[portfolio]: [https://ardaerbaharli.github.io/portfolio/]
-
 ### 📩 Connect with me:
 
 [<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][gmail]
