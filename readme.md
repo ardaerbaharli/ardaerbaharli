@@ -4,7 +4,7 @@ I have been actively engaged in software development for over four years, specia
 
 You can see my portfolio [here]([portfolio])
 
-[portfolio]: https://ardaerbaharli.github.io/portfolio/
+[portfolio]: [https://ardaerbaharli.github.io/portfolio/]
 
 ### 📩 Connect with me:
 
