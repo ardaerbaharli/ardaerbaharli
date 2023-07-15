@@ -10,4 +10,4 @@ You can see my portfolio [here](https://ardaerbaharli.github.io/portfolio/)
 [<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 
 [gmail]: mailto:ardaerbaharli1@gmail.com
-[linkedin]: [https://www.linkedin.com/in/emreberat/](https://www.linkedin.com/in/arda-erbaharlı-5401471aa/)
+[linkedin]: https://www.linkedin.com/in/arda-erbaharlı-5401471aa/
